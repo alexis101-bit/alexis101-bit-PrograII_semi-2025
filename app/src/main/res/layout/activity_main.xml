@@ -9,7 +9,7 @@
 
     <TextView
         android:id="@+id/lblNum1"
-        android:text="Num 1:"
+        android:text="Num 1: "
         android:layout_marginTop="60dp"
         android:layout_marginLeft="20dp"
         android:layout_width="wrap_content"
