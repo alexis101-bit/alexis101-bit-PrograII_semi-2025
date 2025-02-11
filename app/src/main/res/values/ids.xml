@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tabTiempo" type="id" />
+    <item name="txtRespuesta" type="id" />
+    <item name="textCantidad" type="id" />
+</resources>
